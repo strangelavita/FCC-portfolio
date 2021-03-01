@@ -1,0 +1,23 @@
+#welcome-section {
+    height:100vh;
+    background-color: lightgreen;
+}
+
+.project-tile{
+    min-height: 70px;
+    background-color: lightseagreen;
+}
+
+#navbar{
+    position: fixed;
+    min-height: 40px;
+}
+
+#profile-link{
+    min-height: 50px;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
